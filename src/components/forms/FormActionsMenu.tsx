@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from 'react'
+import { useState, useRef } from 'react'
 import { MoreHorizontal, PenSquare, Share2, Link, Copy, Trash2, ChevronRight } from 'lucide-react'
 import { DropdownMenu, DropdownItem, DropdownDivider } from '../ui/DropdownMenu'
 import { Form } from '../../types'
