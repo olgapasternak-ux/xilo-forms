@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "xilo-forms",
+      "runtimeExecutable": "/Users/koristuvac/Library/Caches/ms-playwright-go/1.50.1/node",
+      "runtimeArgs": ["/tmp/package/bin/npm-cli.js", "run", "dev", "--", "--port", "5174"],
+      "port": 5174,
+      "cwd": "/Users/koristuvac/Action pannel/xilo-forms",
+      "env": {
+        "PATH": "/Users/koristuvac/Library/Caches/ms-playwright-go/1.50.1:/usr/local/bin:/usr/bin:/bin"
+      }
+    }
+  ]
+}
